@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -43,4 +45,25 @@ TagManager:
     locked: 0
   - name: New Layer 1
     uniqueID: 76995961
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 10933039
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 1066260037
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 595708717
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 624119137
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 3500083593
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 75050701
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 1098093143
     locked: 0
